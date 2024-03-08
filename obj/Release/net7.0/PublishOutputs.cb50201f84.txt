@@ -1,0 +1,7 @@
+C:\VScode検証\Appservice-.NET\bin\Release\net7.0\publish\..exe
+C:\VScode検証\Appservice-.NET\bin\Release\net7.0\publish\appsettings.Development.json
+C:\VScode検証\Appservice-.NET\bin\Release\net7.0\publish\appsettings.json
+C:\VScode検証\Appservice-.NET\bin\Release\net7.0\publish\..dll
+C:\VScode検証\Appservice-.NET\bin\Release\net7.0\publish\..deps.json
+C:\VScode検証\Appservice-.NET\bin\Release\net7.0\publish\..runtimeconfig.json
+C:\VScode検証\Appservice-.NET\bin\Release\net7.0\publish\..pdb

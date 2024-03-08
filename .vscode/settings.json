@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f20a6bd6-34fe-4472-9deb-255784c16991/resourceGroups/AppServiceConf_Uchida/providers/Microsoft.Web/sites/uchida-webconfigtestapps"
+}
